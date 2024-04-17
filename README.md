@@ -9,9 +9,7 @@
 <a href="https://github.com/thomasrezende/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thomasrezende&theme=gruvbox" />
 </a>
-<a href="https://github.com/thomasrezende/convoychat">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomasrezende&layout=compact&langs_count=8&card_width=320&theme=gruvbox" />
-</a>
+
 
 ##
 
