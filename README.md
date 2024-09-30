@@ -1,5 +1,5 @@
 # Sobre :
--Estudante de Python e seus frameworks<br>-Apaixonado por astronomia<br>-Ciência de Dados
+-Estudante de Python e seus frameworks<br>-Apaixonado por ficção<br>-Ciência de Dados
 
 
 ## 🌐 Socials:
